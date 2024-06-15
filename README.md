@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust and Javascript
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate to open-source projects
-- 📫 You can reach me by emailing me at smartcoder@linuxmail.org
+- 📫 You can reach me by emailing me at smartcoder@smartlinux.xyz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartlinuxcoder&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
